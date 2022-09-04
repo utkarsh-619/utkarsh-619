@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [I will edit it soon](I will edit it soon)
 
-- 💻 Interests include **Programing, game(COC, BGMI), Reading books**
+- 💻 Interests include **Programing, gameing, Reading books**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
