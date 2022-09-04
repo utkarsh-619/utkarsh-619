@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/utkarsh-awasthi-3a815b211/**
 
-- 📄 Know about my experiences [I will edit it soon](I will edit it soon)
+- 📄 Know about my experiences(I will edit it soon)
 
 - 💻 Interests include **Programing, gameing, Reading books**
 
