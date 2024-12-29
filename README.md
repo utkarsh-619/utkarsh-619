@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Web Development.**
 
-- 🌱 I’m currently learning **Redux**
-
 - 👯 I’m looking to collaborate on **any react project**
 
 - 💬 Ask me about **MERN**
