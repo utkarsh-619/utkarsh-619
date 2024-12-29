@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **https://www.linkedin.com/in/utkarsh-awasthi-3a815b211/**
+- 📫 How to reach me **[Utkarsh](https://www.linkedin.com/in/utkarsh619/)**
 
 - 📄 Know about my experiences(I will edit it soon)
 
